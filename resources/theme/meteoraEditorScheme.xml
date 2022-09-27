@@ -9,6 +9,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="50fa7b" />
     <option name="ANNOTATIONS_COLOR" value="282a35" />
+    <option name="BREADCRUMBS_BORDER_COLOR" value="1b1e2e" />
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="2e3245" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1f2435" />
@@ -28,6 +29,8 @@
     <option name="SELECTED_TEARLINE_COLOR" value="6d79ad" />
     <option name="SELECTION_BACKGROUND" value="33374c" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="ffffff21" />
+    <option name="ScrollBar.Mac.thumbColor" value="ffffff14" />
     <option name="TAB_UNDERLINE" value="3d59a1" />
     <option name="TEARLINE_COLOR" value="3d4463" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="bd93f9" />
@@ -37,8 +40,6 @@
     <option name="VCS_ANNOTATIONS_COLOR_5" value="8be9fd" />
     <option name="VISUAL_INDENT_GUIDE" value="24283b" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ffb86c" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="FFFFFF21" />
-    <option name="ScrollBar.Mac.thumbColor" value="FFFFFF14" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -55,8 +56,13 @@
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="bc1313" />
-        <option name="BACKGROUND" value="44474a" />
+        <option name="FOREGROUND" value="bb9af7" />
+        <option name="BACKGROUND" value="292e42" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="a0aae2" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
