@@ -7,13 +7,13 @@
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="2B4F55" />
+    <option name="ADDED_LINES_COLOR" value="2b4f55" />
     <option name="ANNOTATIONS_COLOR" value="282a35" />
     <option name="BREADCRUMBS_BORDER_COLOR" value="1b1e2e" />
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="2e3245" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1f2435" />
-    <option name="DELETED_LINES_COLOR" value="F7768E" />
+    <option name="DELETED_LINES_COLOR" value="f7768e" />
     <option name="DOCUMENTATION_COLOR" value="202334" />
     <option name="GUTTER_BACKGROUND" value="24283b" />
     <option name="INDENT_GUIDE" value="313650" />
@@ -22,7 +22,7 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a0aae2" />
     <option name="LOOKUP_COLOR" value="202334" />
     <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="bb9af7" />
-    <option name="MODIFIED_LINES_COLOR" value="876A54" />
+    <option name="MODIFIED_LINES_COLOR" value="876a54" />
     <option name="RECENT_LOCATIONS_SELECTION" value="202334" />
     <option name="RIGHT_MARGIN_COLOR" value="434659" />
     <option name="SELECTED_INDENT_GUIDE" value="404668" />
@@ -39,7 +39,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="50fa7b" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="8be9fd" />
     <option name="VISUAL_INDENT_GUIDE" value="24283b" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="876A54" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="876a54" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
