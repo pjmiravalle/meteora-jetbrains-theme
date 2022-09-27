@@ -4,7 +4,7 @@
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.2.0.0</property>
     <property name="modified">2022-09-27T10:38:47</property>
-    <property name="originalScheme">Coderpillr Dusk (rev4)</property>
+    <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="50fa7b" />
