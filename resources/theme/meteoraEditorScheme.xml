@@ -7,7 +7,7 @@
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="2b4f55" />
+    <option name="ADDED_LINES_COLOR" value="2b554d" />
     <option name="ANNOTATIONS_COLOR" value="282a35" />
     <option name="BREADCRUMBS_BORDER_COLOR" value="1b1e2e" />
     <option name="CARET_COLOR" value="cccccc" />
@@ -357,6 +357,30 @@
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ffb86c" />
+      </value>
+    </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="db4b4b" />
+        <option name="ERROR_STRIPE_COLOR" value="8f5247" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="55373f" />
+        <option name="ERROR_STRIPE_COLOR" value="656e76" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="2b554d" />
+        <option name="ERROR_STRIPE_COLOR" value="447152" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="876a54" />
+        <option name="ERROR_STRIPE_COLOR" value="43698d" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
