@@ -56,10 +56,6 @@
       "borderColor": "darkBorder",
       "separatorColor": "separatorColor"
     },
-    "Borders": {
-      "color": "darkBorder",
-      "ContrastBorderColor": "hoverBackground"
-    },
     "ActionButton": {
       "hoverBackground": "hoverBackground",
       "hoverBorderColor": "hoverBackground",
@@ -86,6 +82,10 @@
       "background": "hoverBackground",
       "borderColor": "blue0"
     },
+    "Borders": {
+      "color": "darkBorder",
+      "ContrastBorderColor": "hoverBackground"
+    },
     "Button": {
       "foreground": "fg",
       "startBorderColor": "hoverBackground",
@@ -96,12 +96,12 @@
       "disabledBorderColor": "darkBorder",
       "default": {
         "foreground": "bg",
-        "startBackground": "blue",
-        "endBackground": "blue",
-        "startBorderColor": "blue0",
-        "endBorderColor": "blue0",
-        "focusColor": "fg",
-        "focusedBorderColor": "fg"
+        "startBackground": "purple",
+        "endBackground": "purple",
+        "startBorderColor": "magenta",
+        "endBorderColor": "magenta",
+        "focusColor": "#53446d",
+        "focusedBorderColor": "magenta"
       }
     },
     "Counter": {
