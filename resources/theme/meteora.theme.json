@@ -187,6 +187,7 @@
         "informativeBorderColor": "magenta"
       }
     },
+    "Panel.foreground": "#FFFFFF",
     "PasswordField": {
       "background": "hoverBackground"
     },
@@ -390,17 +391,17 @@
       "Actions.Grey": "#414868",
       "Actions.GreyInline.Dark": "#565F89",
       "Actions.GreyInline": "#565F89",
-      "Objects.Blue": "#7AA2F7",
+      "Objects.Blue": "#73DACA",
       "Objects.Green": "#8bce6a",
       "Objects.GreenAndroid": "#8bce6a",
       "Objects.Grey": "#414868",
-      "Objects.Pink": "#BB9AF7",
-      "Objects.Purple": "#9D7CD8",
+      "Objects.Pink": "#F981D1",
+      "Objects.Purple": "#76AAF7",
       "Objects.Red": "#F7768E",
       "Objects.RedStatus": "#F7768E",
-      "Objects.Yellow": "#E0AF68",
+      "Objects.Yellow": "#97BEF9",
       "Objects.YellowDark": "#E0AF68",
-      "Objects.BlackText": "#565F89",
+      "Objects.BlackText": "#1f2435",
       "Tree.iconColor": "#7aa2f7"
     }
   }
