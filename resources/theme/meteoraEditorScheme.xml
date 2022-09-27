@@ -17,7 +17,7 @@
     <option name="GUTTER_BACKGROUND" value="24283b" />
     <option name="INDENT_GUIDE" value="313650" />
     <option name="INFORMATION_HINT" value="202334" />
-    <option name="LINE_NUMBERS_COLOR" value="4E5471" />
+    <option name="LINE_NUMBERS_COLOR" value="4e5471" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a0aae2" />
     <option name="LOOKUP_COLOR" value="202334" />
     <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="bb9af7" />
@@ -37,6 +37,8 @@
     <option name="VCS_ANNOTATIONS_COLOR_5" value="8be9fd" />
     <option name="VISUAL_INDENT_GUIDE" value="24283b" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ffb86c" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="FFFFFF21" />
+    <option name="ScrollBar.Mac.thumbColor" value="FFFFFF14" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
