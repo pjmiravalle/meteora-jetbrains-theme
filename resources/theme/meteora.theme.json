@@ -93,7 +93,7 @@
       "endBorderColor": "hoverBackground",
       "startBackground": "hoverBackground",
       "endBackground": "hoverBackground",
-      "focusedBorderColor": "dark5",
+      "focusedBorderColor": "blue0",
       "disabledBorderColor": "darkBorder",
       "default": {
         "foreground": "bg",
