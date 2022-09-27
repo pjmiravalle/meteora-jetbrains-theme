@@ -28,7 +28,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="6d79ad" />
     <option name="SELECTION_BACKGROUND" value="33374c" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
-    <option name="TAB_UNDERLINE" value="476b9e" />
+    <option name="TAB_UNDERLINE" value="3d59a1" />
     <option name="TEARLINE_COLOR" value="3d4463" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="bd93f9" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="ff79c6" />
@@ -674,7 +674,7 @@
     <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="TAB_SELECTED">
       <value>
-        <option name="BACKGROUND" value="24283b" />
+        <option name="BACKGROUND" value="1f2435" />
       </value>
     </option>
     <option name="TAB_SELECTED_INACTIVE">

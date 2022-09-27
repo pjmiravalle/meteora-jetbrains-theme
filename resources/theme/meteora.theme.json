@@ -142,7 +142,7 @@
       "borderColor": "hoverBackground",
       "hoverBackground": "hoverBackground",
       "inactiveUnderlineColor": "comment",
-      "underlineColor": "blue"
+      "underlineColor": "blue0"
     },
     "Editor": {
       "background": "bg",
@@ -151,10 +151,10 @@
     "EditorTabs": {
       "background": "bg",
       "underlinedTabBackground": "hoverBackground",
-      "underlineColor": "blue",
+      "underlineColor": "blue0",
       "underlineHeight": 1,
       "hoverBackground": "hoverBackground",
-      "inactiveUnderlineColor": "blue"
+      "inactiveUnderlineColor": "blue0"
     },
     "FileColor": {
       "Blue": "#7AA2F71a",
@@ -314,17 +314,17 @@
         "borderColor": "hoverBackground"
       },
       "HeaderTab": {
-        "underlineColor": "magenta2",
-        "inactiveUnderlineColor": "fgDark",
+        "underlineColor": "#3d59a1",
+        "inactiveUnderlineColor": "dark3",
         "underlineHeight": 1,
-        "underlinedTabBackground": "dark3",
-        "selectedInactiveBackground": "dark5",
+        "underlinedTabBackground": "bg",
+        "selectedInactiveBackground": "bg",
         "hoverBackground": "hoverBackground"
       }
     },
     "Tree": {
       "background": "bg",
-      "modifiedItemForeground": "blue",
+      "modifiedItemForeground": "blue0",
       "hoverBackground": "hoverBackground",
       "selectionBackground": "blue0",
       "selectionInactiveBackground": "selectionInactiveBackground"
