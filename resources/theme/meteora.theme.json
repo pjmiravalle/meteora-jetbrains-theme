@@ -4,8 +4,8 @@
   "author": "Patrick Miravalle",
   "editorScheme": "/theme/meteoraEditorScheme.xml",
   "colors": {
-    "bgDark": "#1f2335",
-    "bg": "#24283b",
+    "darkBorder": "#1b1e2e",
+    "bg": "#1f2435",
     "terminalBlack": "#414868",
     "fg": "#c0caf5",
     "fgDark": "#a9b1d6",
@@ -53,11 +53,11 @@
       "disabledBackground": "bg",
       "disabledBorderColor": "bg",
       "disabledForeground": "comment",
-      "borderColor": "bgDark",
+      "borderColor": "darkBorder",
       "separatorColor": "separatorColor"
     },
     "Borders": {
-      "color": "bgDark",
+      "color": "darkBorder",
       "ContrastBorderColor": "hoverBackground"
     },
     "ActionButton": {
@@ -93,7 +93,7 @@
       "startBackground": "hoverBackground",
       "endBackground": "hoverBackground",
       "focusedBorderColor": "blue0",
-      "disabledBorderColor": "bgDark",
+      "disabledBorderColor": "darkBorder",
       "default": {
         "foreground": "bg",
         "startBackground": "blue",
@@ -105,7 +105,7 @@
       }
     },
     "Counter": {
-      "foreground": "bgDark",
+      "foreground": "bg",
       "background": "blue0"
     },
     "ComboBox": {
@@ -125,7 +125,7 @@
     },
     "Component": {
       "focusColor": "hoverBackground",
-      "borderColor": "bgDark",
+      "borderColor": "darkBorder",
       "focusedBorderColor": "blue0",
       "disabledBorderColor": "blue0",
       "errorFocusColor": "red1",
@@ -148,7 +148,7 @@
       "shortcutForeground": "blue"
     },
     "EditorTabs": {
-      "background": "bgDark",
+      "background": "bg",
       "underlinedTabBackground": "hoverBackground",
       "underlineColor": "blue",
       "underlineHeight": 1,
@@ -172,17 +172,17 @@
     "Notification": {
       "background": "hoverBackground",
       "errorBorderColor": "red1",
-      "errorBackground": "bgDark",
+      "errorBackground": "bg",
       "errorForeground": "fg",
       "ToolWindow": {
         "warningForeground": "fg",
-        "warningBackground": "bgDark",
+        "warningBackground": "bg",
         "warningBorderColor": "orange",
         "errorForeground": "fg",
         "errorBorderColor": "red1",
-        "errorBackground": "bgDark",
+        "errorBackground": "bg",
         "informativeForeground": "fg",
-        "informativeBackground": "bgDark",
+        "informativeBackground": "bg",
         "informativeBorderColor": "magenta"
       }
     },
@@ -201,10 +201,10 @@
       "Button": {
         "installBorderColor": "magenta",
         "installForeground": "magenta",
-        "installBackground": "bgDark",
-        "installFillForeground": "bgDark",
+        "installBackground": "bg",
+        "installFillForeground": "bg",
         "installFillBackground": "magenta",
-        "installFocusedBackground": "bgDark",
+        "installFocusedBackground": "bg",
         "updateBorderColor": "blue",
         "updateForeground": "fg",
         "updateBackground": "blue"
@@ -277,7 +277,7 @@
       "focusColor": "hoverBackground",
       "hoverColor": "hoverBackground",
       "underlineColor": "blue",
-      "contentAreaColor": "bgDark"
+      "contentAreaColor": "bg"
     },
     "Table": {
       "gridColor": "hoverBackground",
@@ -290,7 +290,7 @@
       "background": "hoverBackground"
     },
     "TextArea": {
-      "background": "bgDark"
+      "background": "bg"
     },
     "ToggleButton": {
       "onBackground": "green",
@@ -300,7 +300,7 @@
       "buttonColor": "fg"
     },
     "ToolBar": {
-      "background": "bgDark",
+      "background": "bg",
       "borderHandleColor": "magenta"
     },
     "ToolWindow": {
@@ -308,8 +308,8 @@
         "hoverBackground": "hoverBackground"
       },
       "Header": {
-        "background": "bgDark",
-        "inactiveBackground": "bgDark",
+        "background": "bg",
+        "inactiveBackground": "bg",
         "borderColor": "hoverBackground"
       },
       "HeaderTab": {
@@ -330,9 +330,9 @@
     },
     "ToolTip.shortcutForeground": "blue",
     "ValidationTooltip": {
-      "errorBackground": "bgDark",
+      "errorBackground": "bg",
       "errorBorderColor": "red1",
-      "warningBackground": "bgDark",
+      "warningBackground": "bg",
       "warningBorderColor": "orange"
     },
     "VersionControl": {
@@ -371,7 +371,8 @@
           "background": "hoverBackground"
         }
       }
-    }
+    },
+    "window": "bg"
   },
   "icons": {
     "ColorPalette": {
