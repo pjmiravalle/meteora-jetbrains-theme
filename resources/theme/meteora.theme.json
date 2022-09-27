@@ -379,7 +379,7 @@
   "icons": {
     "ColorPalette": {
       "Actions.Blue": "#7AA2F7",
-      "Actions.Green": "#9ECE6A",
+      "Actions.Green": "#8bce6a",
       "Actions.Orange": "#FF9E64",
       "Actions.Purple": "#9D7CD8",
       "Actions.Red": "#F7768E",
@@ -391,8 +391,8 @@
       "Actions.GreyInline.Dark": "#565F89",
       "Actions.GreyInline": "#565F89",
       "Objects.Blue": "#7AA2F7",
-      "Objects.Green": "#9ECE6A",
-      "Objects.GreenAndroid": "#9ECE6A",
+      "Objects.Green": "#8bce6a",
+      "Objects.GreenAndroid": "#8bce6a",
       "Objects.Grey": "#414868",
       "Objects.Pink": "#BB9AF7",
       "Objects.Purple": "#9D7CD8",
