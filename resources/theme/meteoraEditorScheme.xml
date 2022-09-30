@@ -1,9 +1,9 @@
 <scheme name="Meteora" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-09-30T12:23:18</property>
+    <property name="created">2022-09-30T13:34:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.2.0.0</property>
-    <property name="modified">2022-09-30T12:23:24</property>
+    <property name="modified">2022-09-30T13:35:03</property>
     <property name="originalScheme">Meteora</property>
   </metaInfo>
   <colors>
@@ -18,6 +18,9 @@
     <option name="GUTTER_BACKGROUND" value="24283b" />
     <option name="INDENT_GUIDE" value="313650" />
     <option name="INFORMATION_HINT" value="202334" />
+    <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="292e42" />
+    <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="323850" />
+    <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="292e42" />
     <option name="LINE_NUMBERS_COLOR" value="4e5471" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a0aae2" />
     <option name="LOOKUP_COLOR" value="202334" />
@@ -79,6 +82,9 @@
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="CODE_LENS_BORDER_COLOR">
       <value />
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
@@ -252,7 +258,7 @@
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="7282b7" />
+        <option name="FOREGROUND" value="8090c9" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -457,6 +463,17 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="24283b" />
+      </value>
+    </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="5c6b99" />
+        <option name="BACKGROUND" value="292e42" />
+      </value>
+    </option>
+    <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="5c6b99" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
