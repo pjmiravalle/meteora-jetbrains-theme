@@ -1,9 +1,9 @@
 <scheme name="Meteora" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-09-30T12:08:45</property>
+    <property name="created">2022-09-30T12:23:18</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.2.0.0</property>
-    <property name="modified">2022-09-30T12:08:51</property>
+    <property name="modified">2022-09-30T12:23:24</property>
     <property name="originalScheme">Meteora</property>
   </metaInfo>
   <colors>
@@ -21,11 +21,11 @@
     <option name="LINE_NUMBERS_COLOR" value="4e5471" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a0aae2" />
     <option name="LOOKUP_COLOR" value="202334" />
-    <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="bb9af7" />
+    <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="4c6fa1" />
     <option name="MODIFIED_LINES_COLOR" value="876a54" />
     <option name="RECENT_LOCATIONS_SELECTION" value="202334" />
     <option name="RIGHT_MARGIN_COLOR" value="434659" />
-    <option name="SELECTED_INDENT_GUIDE" value="404668" />
+    <option name="SELECTED_INDENT_GUIDE" value="4a5177" />
     <option name="SELECTED_TEARLINE_COLOR" value="6d79ad" />
     <option name="SELECTION_BACKGROUND" value="33374c" />
     <option name="TAB_UNDERLINE" value="476b9e" />
@@ -588,7 +588,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c0caf5" />
+        <option name="FOREGROUND" value="b6bff1" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
