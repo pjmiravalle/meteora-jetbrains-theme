@@ -1,9 +1,9 @@
 <scheme name="Meteora" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-09-30T13:34:56</property>
+    <property name="created">2022-09-30T19:04:14</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.2.0.0</property>
-    <property name="modified">2022-09-30T13:35:03</property>
+    <property name="modified">2022-09-30T19:04:22</property>
     <property name="originalScheme">Meteora</property>
   </metaInfo>
   <colors>
@@ -151,6 +151,16 @@
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e0af68" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="73daca" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="73daca" />
       </value>
     </option>
     <option name="CSS.COLOR">
